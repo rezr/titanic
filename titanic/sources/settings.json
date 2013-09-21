@@ -1,0 +1,5 @@
+{
+    "train_data_path": "C:/Users/Alexis/workspace/titanic/data/train.csv",
+    "test_data_path": "C:/Users/Alexis/workspace/titanic/data/test.csv",
+     "model_path": "C:/Users/Alexis/workspace/titanic/data/model.pickle"
+}
